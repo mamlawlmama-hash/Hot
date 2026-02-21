@@ -37,7 +37,7 @@ import traceback
 # ⚠️ Khuyến nghị: đặt token qua biến môi trường để tránh lộ token khi share code
 # Linux/Mac:  export BOT_TOKEN="123:ABC..."
 # Windows:    setx BOT_TOKEN "123:ABC..."
-TOKEN = "8377535943:AAGsYwPWna6EBdLKVgdtGjVNyvI4C-v94w4")
+TOKEN = "8377535943:AAGsYwPWna6EBdLKVgdtGjVNyvI4C-v94w4"
 OWNER_ID = "7148987608"
 YOUR_USERNAME = "@HAYAHALL"
 
