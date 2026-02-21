@@ -1,0 +1,8 @@
+telethon
+pyTelegramBotAPI
+python-telegram-bot
+Pillow
+psutil
+requests
+python-dateutil
+pytz
